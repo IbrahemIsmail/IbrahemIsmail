@@ -7,13 +7,6 @@ I am Ibrahem Ismail. Senior at Uskudar University, here some info about me:
 #### 📫 How to reach me
 - Email: **`ibrahem.itib@gmail.com`**
 
----
-<p align="center">
-<a href="https://open.spotify.com/user/31hua33mg5ia3eqe3z4xlheomphi?si=dVa8irCrROCs36V8SXDClA&utm_source=copy-link&dl_branch=1">
-<img alt="Spotify: Nishant1500" width="26px" height="26px" src="https://raw.githubusercontent.com/Nishant1500/Nishant1500/main/assets/Spotify.svg"/>
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <!--
