@@ -14,21 +14,6 @@ I am Ibrahem Ismail. Senior at Uskudar University, here some info about me:
 </a>
 </p>
 
-```diff
-@@        Extra Contacts        @@
-```
-
-</p>
-
----
-<p align="center">
-<a href="https://github.com/Nishant1500">
-<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
-</a>
-</p>
-
-Listed on [**durgeshsamariya/awesome-github-profile-readme**](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
-
 <h3 align="left">Languages and Tools:</h3>
 
 <!--
