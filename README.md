@@ -1,8 +1,9 @@
 # Hello There!
 
-I am Ibrahem Ismail. Senior at Uskudar University, here some info about me:
-- 👀 I’m interested in backend development. I know many languages such as: Java, Javascript, C, C++, Python, Dart, HTML5, CSS, SQL, C#.
-- 💞️ I've worked with the following technologies: EJS, Flutter, React.js, Node.js, MongoDB, MySQL, Azure, Git, jQuery, Bootstrap, Express.js, APIs.
+I am Ibrahem Ismail. Full-stack developer, here some info about me:
+- 👀 I specialize in backend development.
+- ✔️ I work with Java, Javascript, C, C++, Python, Dart, HTML5, CSS, SQL, C#.
+- 💞️ I have professional experience with: EJS, Flutter, React.js, Node.js, MongoDB, MySQL, Azure, Git, jQuery, Bootstrap, Express.js, APIs.
 
 #### 📫 How to reach me
 - Email: **`ibrahem.itib@gmail.com`**
