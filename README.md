@@ -9,7 +9,7 @@ I build production-grade web and mobile applications end-to-end, from architectu
 - 📱 Cross-platform Flutter apps with custom Node.js backends
 - 🌍 Based in Al Madinah, KSA, open to remote opportunities
 
-📬 [ibrahem.itib@gmail.com](mailto:ibrahem.itib@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ibrahem-ismail-627b3b207/)
+📬 [ibrahem.itib@gmail.com](mailto:ibrahem.itib@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ibrahem-ismail-627b3b207/) · [Portfolio](https://ibrahem-ismail-portfolio.vercel.app/)
 
 ---
 
